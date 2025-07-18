@@ -18,7 +18,7 @@
 - 🏋️‍♂️ **[Fitness App](https://github.com/Team5-Projects-Advanced-Flutter-Elevate/fitness-app)**  
  A cross-platform fitness application developed using Flutter, designed to help users track workouts, monitor progress, and achieve their health goals. The app features a clean UI/UX, daily workout plans, muscle   group categorization, video guidance, and personalized goal tracking.
 
-- 📝 **[Online Exam App](https://github.com/Team5-Projects-Advanced-Flutter-Elevate/online-exam)**  
+- 📝 **[Online Exam App](https://github.com/Team5-Projects-Advanced-Flutter-Elevate/exam-app-group2)**  
   Online Exam App is a Flutter-based mobile application that enables users to take online exams, track their results, and manage their progress efficiently. The app provides a seamless experience with features      such as secure authentication, subject-wise exam selection, timer-based MCQ tests, and result tracking. Built using MVI architecture and Cubit for state management, the app ensures a structured, scalable, and     maintainable codebase for future enhancements.
 
 ---
